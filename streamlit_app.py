@@ -1,9 +1,6 @@
 import streamlit
 
-streamlit.title('My Parents New Healthy Diner') 
-
---streamlit.header('Gruesome Grub')
-
---streamlit.text('Eyeball Salad       4.99')
---streamlit.text('Chikn Fingers       5.99')
---streamlit.text('Broccoli Brains     5.99')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
